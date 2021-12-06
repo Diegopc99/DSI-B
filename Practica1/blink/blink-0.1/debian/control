@@ -1,0 +1,10 @@
+Source: blink
+Maintainer: Diego Prieto Carrete
+Section: misc
+Priority: optional
+Build-Depends: debhelper (>= 9)
+
+Package: blink
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Paquete con programa para parpadear un LED

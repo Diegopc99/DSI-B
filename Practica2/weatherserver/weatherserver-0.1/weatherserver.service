@@ -1,0 +1,12 @@
+[Unit]
+Description=weatherserver
+
+[Service]
+WorkingDirectory=/home/debian/Practica2/weatherstation
+EnvironmentFile=/etc/default/node
+ExecStart=/usr/bin/node /home/debian/Practica2/weatherstation/weatherserver.js
+SyslogIdentifier=myfancyapp
+
+[Install]
+WantedBy=multi-user.target
+

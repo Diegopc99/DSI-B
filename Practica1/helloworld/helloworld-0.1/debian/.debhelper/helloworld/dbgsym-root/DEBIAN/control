@@ -1,0 +1,13 @@
+Package: helloworld-dbgsym
+Package-Type: ddeb
+Source: helloworld
+Version: 0.1-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Diego Prieto Carrete
+Installed-Size: 17
+Depends: helloworld (= 0.1-1)
+Section: debug
+Priority: optional
+Description: debug symbols for helloworld
+Build-Ids: ab3668de4f07e6f6fdfce44e9ee45a3c262567d8

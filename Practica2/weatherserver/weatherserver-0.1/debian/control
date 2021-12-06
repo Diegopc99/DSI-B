@@ -1,0 +1,11 @@
+Source: weatherserver
+Maintainer: Diego Prieto Carrete <diegopc99@gmail.com>
+Section: misc 
+Priority: optional 
+Build-Depends: debhelper (>= 9)
+
+Package: weatherserver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Weather Station Server
+

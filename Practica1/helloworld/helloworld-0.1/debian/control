@@ -1,0 +1,10 @@
+Source: helloworld
+Maintainer: Diego Prieto Carrete
+Section: misc
+Priority: optional
+Build-Depends: debhelper (>= 9)
+
+Package: helloworld
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: programa de proba.Probamos como se crea un paquete

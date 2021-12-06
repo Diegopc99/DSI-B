@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title>Embedded System Design: BeagleBone Black Luminosity Sensor</title>
+		<style type="text/css" media="all">@import "/style.css";</style>
+		<script src="jquery-1.7.2.min.js"></script>
+		<script src="http://code.highcharts.com/highcharts.js"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	</head>
+	<body>
+		<h1 id="heading" style="white-space:nowrap;">Embedded System Design: BeagleBone Black Luminosity Sensor</h1>
+		<div id="animateTest"><canvas id="lightCanvas"></canvas></div>
+		<br/>
+		<div id="light"></div>
+		<h2>Status:</h2>
+		<p><span id="status">Not yet connected</span></p>
+
+		<script src="/socket.io/socket.io.js"></script>
+		<script src="processing.js"></script>
+		<script type="text/javascript" src="weatherstation.js"></script>
+	</body>
+</html>

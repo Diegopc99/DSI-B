@@ -1,0 +1,12 @@
+Package: blink-dbgsym
+Source: blink
+Version: 0.1-1
+Auto-Built-Package: debug-symbols
+Architecture: armhf
+Maintainer: Diego Prieto Carrete
+Installed-Size: 28
+Depends: blink (= 0.1-1)
+Section: debug
+Priority: optional
+Description: debug symbols for blink
+Build-Ids: e1128f4f7bd9e22dcd7ebec5d0f00082d17ed95f
