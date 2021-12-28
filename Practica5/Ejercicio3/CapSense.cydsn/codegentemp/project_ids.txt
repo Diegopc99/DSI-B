@@ -1,0 +1,6 @@
+C:\Users\ubald\Documents\PSoC Creator\Ejercicio3\CapSense.cydsn\CapSense.cyprj|1b4b10e0-e174-4bcf-965a-4be91c8bd8e8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|ee8d44f8-dfc9-48fe-b6d6-839bc6f2419d
+C:\Users\ubald\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|6f6a2375-7a9f-464d-99f1-c0352b7e0ca5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|82ea2832-2b31-4527-9722-e35f3b22464b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|1924e8ad-c36b-41fe-bd6f-570bc6eadf68
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|8819f1bb-aae7-4324-8bbd-38f4b32b4e34

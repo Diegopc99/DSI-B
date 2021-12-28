@@ -1,0 +1,7 @@
+net Net_1
+	term   ":m0s8tcpwmcell_2.line"
+	switch ":m0s8tcpwmcell_2.line==>:ioport3:hsiom_out4.fixed_ACT_0"
+	switch ":ioport3:hsiom_out4.hsiom4_out==>:ioport3:smartio_mux_in4.direct_out"
+	switch ":ioport3:smartio_mux_in4.smartio_mux_in==>:ioport3:pin4.pin_input"
+	term   ":ioport3:pin4.pin_input"
+end Net_1

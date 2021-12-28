@@ -1,0 +1,92 @@
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/CortexM0p/ARM_GCC_541/Debug/main.o : C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Centroid_LL.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Configuration.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Control.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Filter.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_ISR.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Processing.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_RegisterMap.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Sensing.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_SensingCSD_LL.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_SmartSense_LL.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Structure.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Tuner.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/Clock_1.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CyDMA.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CyFlash.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CyLFClk.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CyLib.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/PWM_1.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/Pin_1.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/Pin_1_aliases.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_BOOT.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_PINS.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_PVT.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_SCBCLK.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_SPI_UART.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_SPI_UART_PVT.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_tx.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_tx_aliases.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cmsis_armcc.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cmsis_compiler.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cmsis_gcc.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/core_cm0plus.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/core_cm0plus_psoc4.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cyPm.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cydevice_trm.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cydisabledsheets.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cyfitter.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cypins.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cytypes.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/project.h C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/main.c 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Centroid_LL.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Configuration.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Control.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Filter.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_ISR.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Processing.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_RegisterMap.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Sensing.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_SensingCSD_LL.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_SmartSense_LL.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Structure.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CapSense_1_Tuner.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/Clock_1.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CyDMA.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CyFlash.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CyLFClk.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/CyLib.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/PWM_1.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/Pin_1.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/Pin_1_aliases.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_BOOT.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_PINS.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_PVT.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_SCBCLK.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_SPI_UART.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_SPI_UART_PVT.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_tx.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/UART_1_tx_aliases.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cmsis_armcc.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cmsis_compiler.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cmsis_gcc.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/core_cm0plus.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/core_cm0plus_psoc4.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cyPm.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cy_em_eeprom.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cydevice_trm.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cydisabledsheets.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cyfitter.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cyfitter_cfg.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cypins.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/cytypes.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/Generated_Source/PSoC4/project.h : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio4/Servo.cydsn/main.c : 
+

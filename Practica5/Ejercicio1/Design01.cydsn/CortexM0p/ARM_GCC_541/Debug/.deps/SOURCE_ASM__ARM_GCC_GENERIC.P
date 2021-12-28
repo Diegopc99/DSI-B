@@ -1,0 +1,8 @@
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio1/Design01.cydsn/CortexM0p/ARM_GCC_541/Debug/CyBootAsmGnu.o : C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio1/Design01.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio1/Design01.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio1/Design01.cydsn/Generated_Source/PSoC4/cyfittergnu.inc 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio1/Design01.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio1/Design01.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+
+C:/Users/ubald/Documents/PSoC\ Creator/Ejercicio1/Design01.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+

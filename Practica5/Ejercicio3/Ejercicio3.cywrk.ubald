@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Ejercicio3\CapSense\Source Files\main.c">
+<ExpandedNodeIds>
+<v>Ejercicio3</v>
+<v>Ejercicio3\CapSense</v>
+<v>Ejercicio3\CapSense\TopDesign</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr\Pins</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr\Analog</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr\Clocks</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr\Interrupts</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr\System</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr\Directives</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr\Flash Security</v>
+<v>Ejercicio3\CapSense\Header Files</v>
+<v>Ejercicio3\CapSense\Header Files\cyapicallbacks.h</v>
+<v>Ejercicio3\CapSense\Source Files</v>
+<v>Ejercicio3\CapSense\Source Files\main.c</v>
+<v>Ejercicio3\CapSense\Generated_Source</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Ejercicio3</v>
+<v>Ejercicio3\CapSense</v>
+<v>Ejercicio3\CapSense\TopDesign</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr\Pins</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr\Analog</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr\Clocks</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr\Interrupts</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr\System</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr\Directives</v>
+<v>Ejercicio3\CapSense\CapSense.cydwr\Flash Security</v>
+<v>Ejercicio3\CapSense\Header Files</v>
+<v>Ejercicio3\CapSense\Header Files\cyapicallbacks.h</v>
+<v>Ejercicio3\CapSense\Source Files</v>
+<v>Ejercicio3\CapSense\Source Files\main.c</v>
+<v>Ejercicio3\CapSense\Generated_Source</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\CapSense_1</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\CapSense_1_ISR</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cy_boot</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cy_dmac</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cy_lfclk</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\Em_EEPROM_Dynamic</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\UART_1</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\UART_1_SCBCLK</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\UART_1_tx</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cycodeshareexport.ld</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cycodeshareimport.ld</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cycodeshareimport.scat</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cydevice_trm.h</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cydevicegnu_trm.inc</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cydeviceiar_trm.inc</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cydevicerv_trm.inc</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cydisabledsheets.h</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cyfitter.h</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cyfitter_cfg.c</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cyfitter_cfg.h</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cyfittergnu.inc</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cyfitteriar.inc</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cyfitterrv.inc</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\cymetadata.c</v>
+<v>Ejercicio3\CapSense\Generated_Source\PSoC4\project.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Ejercicio3</v>
+<v>Ejercicio3\CapSense</v>
+<v>Ejercicio3\CapSense\TopDesign</v>
+<v>Ejercicio3\CapSense\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Ejercicio3</v>
+<v>Ejercicio3\CapSense</v>
+<v>Ejercicio3\CapSense\TopDesign</v>
+<v>Ejercicio3\CapSense\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Ejercicio3</v>
+<v>Ejercicio3\CapSense</v>
+<v>Ejercicio3\CapSense\CortexM0p</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Centroid_LL.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Control.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Filter.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_INT.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_ISR.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Processing.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Sensing.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_SensingCSD_LL.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Structure.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Tuner.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\Cm0plusStart.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_PM.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_SCBCLK.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_SPI_UART.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_SPI_UART_INT.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_tx.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_tx_PM.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_UART.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_UART_BOOT.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\CapSense.elf</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\CapSense.hex</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\CapSense.map</v>
+<v>Ejercicio3\CapSense\CapSense.gpdsc</v>
+<v>Ejercicio3\CapSense\CapSense.rpt</v>
+<v>Ejercicio3\CapSense\CapSense_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Ejercicio3</v>
+<v>Ejercicio3\CapSense</v>
+<v>Ejercicio3\CapSense\CortexM0p</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Centroid_LL.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Control.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Filter.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_INT.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_ISR.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Processing.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Sensing.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_SensingCSD_LL.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Structure.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Tuner.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\Cm0plusStart.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_PM.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_SCBCLK.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_SPI_UART.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_SPI_UART_INT.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_tx.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_tx_PM.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_UART.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_UART_BOOT.lst</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\CapSense.elf</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\CapSense.hex</v>
+<v>Ejercicio3\CapSense\CortexM0p\ARM_GCC_541\Debug\CapSense.map</v>
+<v>Ejercicio3\CapSense\CapSense.gpdsc</v>
+<v>Ejercicio3\CapSense\CapSense.rpt</v>
+<v>Ejercicio3\CapSense\CapSense_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Ejercicio3</v>
+<v>Ejercicio3\CapSense</v>
+<v>Ejercicio3\CapSense\PSoC 4 Architecture TRM</v>
+<v>Ejercicio3\CapSense\System Reference Guides</v>
+<v>Ejercicio3\CapSense\System Reference Guides\cy_boot_v6_0</v>
+<v>Ejercicio3\CapSense\System Reference Guides\cy_dmac_v1_10</v>
+<v>Ejercicio3\CapSense\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Ejercicio3\CapSense\CapSense_P4_v7_0.pdf</v>
+<v>Ejercicio3\CapSense\SCB_P4_v4_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Ejercicio3</v>
+<v>Ejercicio3\CapSense</v>
+<v>Ejercicio3\CapSense\PSoC 4 Architecture TRM</v>
+<v>Ejercicio3\CapSense\System Reference Guides</v>
+<v>Ejercicio3\CapSense\System Reference Guides\cy_boot_v6_0</v>
+<v>Ejercicio3\CapSense\System Reference Guides\cy_dmac_v1_10</v>
+<v>Ejercicio3\CapSense\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Ejercicio3\CapSense\CapSense_P4_v7_0.pdf</v>
+<v>Ejercicio3\CapSense\SCB_P4_v4_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\CapSense.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\CapSense.cydsn\CapSense.cydwr" />
+<name v=".\CapSense.cydsn\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1119, 688" SelectedTabbedMdiWindow="de225872-77c9-422a-9c0d-99965acd42d2"><DocumentWindow Key="C:\Users\ubald\Documents\PSoC Creator\Ejercicio3\CapSense.cydsn\TopDesign\TopDesign.cysch" Guid="768211f2-632a-4dd7-8aaa-63b3708d7e12" /><DocumentWindow Key="C:\Users\ubald\Documents\PSoC Creator\Ejercicio3\CapSense.cydsn\CapSense.cydwr" Guid="31a1d71f-1967-499d-98f9-25a72b118d26" /><DocumentWindow Key="C:\Users\ubald\Documents\PSoC Creator\Ejercicio3\CapSense.cydsn\main.c" Guid="de225872-77c9-422a-9c0d-99965acd42d2" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

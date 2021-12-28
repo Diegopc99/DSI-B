@@ -1,0 +1,23 @@
+--------------- Build Started: 12/28/2021 07:01:57 Project: Servo, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
+The code generation step is up to date.
+main.c: In function 'main':
+arm-none-eabi-gcc.exe -mcpu=cortex-m0plus -mthumb -I. -IGenerated_Source\PSoC4 -Wa,-alh=.\CortexM0p\ARM_GCC_541\Debug/main.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c main.c -o .\CortexM0p\ARM_GCC_541\Debug\main.o
+main.c:41:17: warning: implicit declaration of function 'sprintf' [-Wimplicit-function-declaration]
+                 sprintf(dato, "%3d\r\n",((sliderval * (4000/100)) + 1000));
+                 ^
+main.c:41:17: warning: incompatible implicit declaration of built-in function 'sprintf'
+main.c:41:17: note: include '<stdio.h>' or provide a declaration of 'sprintf'
+main.c:24:12: warning: variable 'pwm_value' set but not used [-Wunused-but-set-variable]
+     uint16 pwm_value;
+            ^
+arm-none-eabi-ar.exe: creating .\CortexM0p\ARM_GCC_541\Debug\Servo.a
+arm-none-eabi-ar.exe -rs .\CortexM0p\ARM_GCC_541\Debug\Servo.a .\CortexM0p\ARM_GCC_541\Debug\CapSense_1_Control.o .\CortexM0p\ARM_GCC_541\Debug\CapSense_1_Processing.o .\CortexM0p\ARM_GCC_541\Debug\CapSense_1_Structure.o .\CortexM0p\ARM_GCC_541\Debug\CapSense_1_Tuner.o .\CortexM0p\ARM_GCC_541\Debug\CapSense_1_Filter.o .\CortexM0p\ARM_GCC_541\Debug\CapSense_1_Sensing.o .\CortexM0p\ARM_GCC_541\Debug\CapSense_1_INT.o .\CortexM0p\ARM_GCC_541\Debug\CapSense_1_SensingCSD_LL.o .\CortexM0p\ARM_GCC_541\Debug\CapSense_1_Centroid_LL.o .\CortexM0p\ARM_GCC_541\Debug\UART_1.o .\CortexM0p\ARM_GCC_541\Debug\UART_1_SPI_UART.o .\CortexM0p\ARM_GCC_541\Debug\UART_1_SPI_UART_INT.o .\CortexM0p\ARM_GCC_541\Debug\UART_1_PM.o .\CortexM0p\ARM_GCC_541\Debug\UART_1_UART.o .\CortexM0p\ARM_GCC_541\Debug\UART_1_BOOT.o .\CortexM0p\ARM_GCC_541\Debug\UART_1_UART_BOOT.o .\CortexM0p\ARM_GCC_541\Debug\Clock_1.o .\CortexM0p\ARM_GCC_541\Debug\PWM_1.o .\CortexM0p\ARM_GCC_541\Debug\PWM_1_PM.o .\CortexM0p\ARM_GCC_541\Debug\Pin_1.o .\CortexM0p\ARM_GCC_541\Debug\Pin_1_PM.o .\CortexM0p\ARM_GCC_541\Debug\CapSense_1_ISR.o .\CortexM0p\ARM_GCC_541\Debug\UART_1_SCBCLK.o .\CortexM0p\ARM_GCC_541\Debug\UART_1_tx.o .\CortexM0p\ARM_GCC_541\Debug\UART_1_tx_PM.o .\CortexM0p\ARM_GCC_541\Debug\CyFlash.o .\CortexM0p\ARM_GCC_541\Debug\CyLib.o .\CortexM0p\ARM_GCC_541\Debug\cyPm.o .\CortexM0p\ARM_GCC_541\Debug\cyutils.o .\CortexM0p\ARM_GCC_541\Debug\CyDMA.o .\CortexM0p\ARM_GCC_541\Debug\CyLFClk.o .\CortexM0p\ARM_GCC_541\Debug\cy_em_eeprom.o .\CortexM0p\ARM_GCC_541\Debug\CyBootAsmGnu.o
+arm-none-eabi-gcc.exe -Wl,--start-group -o "C:\Users\ubald\Documents\PSoC Creator\Ejercicio4\Servo.cydsn\CortexM0p\ARM_GCC_541\Debug\Servo.elf" .\CortexM0p\ARM_GCC_541\Debug\main.o .\CortexM0p\ARM_GCC_541\Debug\cyfitter_cfg.o .\CortexM0p\ARM_GCC_541\Debug\cymetadata.o .\CortexM0p\ARM_GCC_541\Debug\Cm0plusStart.o .\CortexM0p\ARM_GCC_541\Debug\Servo.a "C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_P4_v7_0\PSoC4\Library\Capsense_P4Library_GCCp.a" -mcpu=cortex-m0plus -mthumb -L Generated_Source\PSoC4 -Wl,-Map,.\CortexM0p\ARM_GCC_541\Debug/Servo.map -T Generated_Source\PSoC4\cm0plusgcc.ld -specs=nano.specs -Wl,--gc-sections -g -ffunction-sections -Og -ffat-lto-objects -Wl,--end-group
+cyelftool.exe -C "C:\Users\ubald\Documents\PSoC Creator\Ejercicio4\Servo.cydsn\CortexM0p\ARM_GCC_541\Debug\Servo.elf" --flash_row_size 256 --flash_size 131072 --flash_offset 0x00000000
+No ELF section .cychecksum found, creating one
+Application checksum calculated and stored in ELF section .cychecksum
+Checksum calculated and stored in ELF section .cymeta
+cyelftool.exe -S "C:\Users\ubald\Documents\PSoC Creator\Ejercicio4\Servo.cydsn\CortexM0p\ARM_GCC_541\Debug\Servo.elf"
+Flash used: 13118 of 131072 bytes (10,0 %).
+SRAM used: 2792 of 16384 bytes (17,0 %). Stack: 2048 bytes. Heap: 128 bytes.
+--------------- Build Succeeded: 12/28/2021 07:01:59 ---------------
